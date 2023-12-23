@@ -43,6 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharprabhu&" alt="tusharprabhu" /></p>
 
-<img src="https://raw.githubusercontent.com/tusharprabhu/tusharprabhu/output/snake.svg" alt="Snake animation" />
-
-###
