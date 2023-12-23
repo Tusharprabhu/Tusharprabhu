@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Prabhu</h1>
 <h3 align="center">I'm an electronics and communication student with a passion for hardware design and modeling digital circuits. I mainly work with Verilog HDL and am learning more advanced skills like verification with SystemVerilog.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tusharprabhu" /> </p>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharprabhu" alt="tusharprabhu" /></a> </p>
-<br>
-
-<p align="left"> <a href="https://twitter.com/tusharprabhu10" target="blank"><img src="https://img.shields.io/twitter/follow/tusharprabhu10?logo=twitter&style=for-the-badge" alt="tusharprabhu10" /></a> </p>
 <br>
 
 - 🔭 I’m currently working on **Surveillance Robot: Built a WiFi connected rover for real-time video streaming.**
@@ -18,10 +10,19 @@
 
 - 📫 How to reach me **tusharpes2004@gmail.com**
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tusharprabhu" /> </p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharprabhu" alt="tusharprabhu" /></a> </p>
+<br>
+
+<p align="left"> <a href="https://twitter.com/tusharprabhu10" target="blank"><img src="https://img.shields.io/twitter/follow/tusharprabhu10?logo=twitter&style=for-the-badge" alt="tusharprabhu10" /></a> </p>
+<br>
   
 [![An image of @tusharprabhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharprabhu)](https://holopin.io/@tusharprabhu)
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
