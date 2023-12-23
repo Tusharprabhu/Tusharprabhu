@@ -41,5 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharprabhu&show_icons=true&locale=en" alt="tusharprabhu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharprabhu&" alt="tusharprabhu" /></p>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" / >
+
+<img src="https://raw.githubusercontent.com/tusharprabhu/tusharprabhu/output/snake.svg" alt="Snake animation" />
+
+###
