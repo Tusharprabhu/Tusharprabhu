@@ -8,6 +8,10 @@
 
 - 👯 I’m looking to collaborate on **Embedded Heart Rate Monitor: Designed a wearable device on FPGA using Verilog and C++.**
 
+- Languages: C/C++, Python, Verilog, SystemVerilog
+- Protocols: I2C, SPI, UART, BLE
+- Tools: Xilinx Vivado, Modelsim, Altium
+
 - 📫 How to reach me **tusharpes2004@gmail.com**
 <br>
 
