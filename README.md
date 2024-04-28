@@ -13,6 +13,7 @@
 - Tools: Xilinx Vivado, Modelsim, Altium
 
 - 📫 How to reach me **tusharpes2004@gmail.com**
+- Linkedin **https://www.linkedin.com/in/tushar-prabhuu/**
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tusharprabhu" /> </p>
