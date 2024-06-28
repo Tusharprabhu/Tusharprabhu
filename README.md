@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Prabhu</h1>
-<h3 align="center">I'm an electronics and communication student with a passion for hardware design and modeling digital circuits. I mainly work with Verilog HDL and am learning more advanced skills like verification with SystemVerilog.</h3>
+<h3 align="center">I'm an electronics and communication engineering student at PES University, with a major in ECE and a minor in CSE. My passion lies in hardware design and modeling digital circuits. I primarily work with Verilog HDL and am expanding my skill set to include SystemVerilog for advanced verification.</h3>
 <br>
 
 - 🔭 I’m currently working on **Surveillance Robot: Built a WiFi connected rover for real-time video streaming.**
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **SystemVerilog (HDL), C/C++ for developing firmware, drivers, and applications on embedded platforms**
 
 - 👯 I’m looking to collaborate on **Embedded Heart Rate Monitor: Designed a wearable device on FPGA using Verilog and C++.**
+
+- b
 
 - Languages: C/C++, Python, Verilog, SystemVerilog
 - Protocols: I2C, SPI, UART, BLE
