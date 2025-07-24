@@ -2,21 +2,22 @@
 <h3 align="center">I'm an electronics and communication engineering student at PES University, with a major in ECE and a minor in CSE. My passion lies in hardware design and modeling digital circuits. I primarily work with Verilog HDL and am expanding my skill set to include SystemVerilog for advanced verification.</h3>
 <br>
 
-- 🔭 I’m currently working on **Surveillance Robot: Built a WiFi connected rover for real-time video streaming.**
+I'm an Electronics and Communication Engineering student at PES University, with a minor in Computer Science. My passion lies in **digital system design**, **embedded development**, and the intersection of **hardware and intelligence**.
 
-- 🌱 I’m currently learning **SystemVerilog (HDL), C/C++ for developing firmware, drivers, and applications on embedded platforms**
+I enjoy building systems from the ground up—whether it's writing Verilog for FPGA logic, modeling architectures in SystemC, or developing C/C++ firmware for microcontrollers. I'm also exploring how AI and machine learning can enhance hardware design, especially in areas like RTL verification and robotics.
 
-- 👯 I’m looking to collaborate on **Embedded Heart Rate Monitor: Designed a wearable device on FPGA using Verilog and C++.**
+Most of my time goes into experimenting with low-level hardware, open-source contributions, and bringing real-world interactivity to circuits and code. I love the process of turning abstract ideas into physical, working prototypes.
 
-- b
+---
 
-- Languages: C/C++, Python, Verilog, SystemVerilog
-- Protocols: I2C, SPI, UART, BLE
-- Tools: Xilinx Vivado, Modelsim, Altium
+### What I Work With
 
-- 📫 How to reach me **tusharpes2004@gmail.com**
-- Linkedin **https://www.linkedin.com/in/tushar-prabhuu/**
-<br>
+- **Hardware & Design:** Verilog, SystemVerilog, SystemC, Cadence Virtuoso, Vivado, ModelSim
+- **Embedded Systems:** C/C++, ESP32, Raspberry Pi, UART/I2C/SPI, RTOS basics
+- **Programming & Tools:** Python, Bash, PyEDA, PyTorch, OpenCV, Git, Linux
+- **Other Interests:** FPGA acceleration, hardware security, humanoid robotics, signal processing
+- **Soft Skills:** Problem-solving, system-level thinking, cross-domain curiosity
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="tusharprabhu" /> </p>
 <br>
