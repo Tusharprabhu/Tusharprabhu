@@ -107,16 +107,44 @@ Most of my time goes into experimenting with low-level hardware, open-source con
   </a> 
 </p>
 
-<table align="center" width="100%">
+---
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=tusharprabhu&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 📈 GitHub Statistics
+<table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharprabhu&show_icons=true&locale=en&layout=compact" alt="tusharprabhu" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tusharprabhu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Tushar's GitHub Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="[![GitHub Streak](https://streak-stats.demolab.com/TusharprabhuDenverCoder1)](https://git.io/streak-stats)" alt="tusharprabhu" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharprabhu&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
+
+### 📊 Contribution Activity
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharprabhu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 💻 Weekly Coding Stats
+<!--START_SECTION:waka-->
+```text
+Verilog      8 hrs 45 mins   ████████████▓░░░░░░░░░░░░   35.2%
+C++          6 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   26.1%
+Python       4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.1%
+SystemC      3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.4%
+Bash         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -127,4 +155,3 @@ Most of my time goes into experimenting with low-level hardware, open-source con
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tushh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tusharprabhu2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tusharprabhu2004/" height="30" width="40" /></a>
 </p>
-
