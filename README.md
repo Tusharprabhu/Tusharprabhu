@@ -113,7 +113,7 @@ Most of my time goes into experimenting with low-level hardware, open-source con
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharprabhu&show_icons=true&locale=en&layout=compact" alt="tusharprabhu" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharprabhu&" alt="tusharprabhu" width="100%" />
+      <img src="[![GitHub Streak](https://streak-stats.demolab.com/TusharprabhuDenverCoder1)](https://git.io/streak-stats)" alt="tusharprabhu" width="100%" />
     </td>
   </tr>
 </table>
